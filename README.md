@@ -7,12 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayazkhan789](https://github.com/ayazkhan789)
 
-- Ask me about **deep learning framework**
+- connect with me [https://www.linkedin.com/in/muhammad-ayaz](https://www.linkedin.com/in/muhammad-ayaz)
+
+- Ask me about **Deep learning frameworks**
 
 - 📫 How to reach me **ayaz81878@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/muhammad-ayaz
 <p align="left">
 </p>
 
