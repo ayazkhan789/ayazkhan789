@@ -12,6 +12,7 @@
 - 📫 How to reach me **ayaz81878@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/muhammad-ayaz
 <p align="left">
 </p>
 
