@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaz</h1>
-<h3 align="center">A passionate Computer Vision researchera Digital Image Processing Lab(DIP)</h3>
+<h3 align="center">A passionate Computer Vision researcher Digital Image Processing Lab(DIP)</h3>
 
 - 🔭 I’m currently working on **Object Detection and instance segmentation**
 
