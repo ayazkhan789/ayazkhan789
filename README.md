@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayazkhan789](https://github.com/ayazkhan789)
 
-- connect with me [https://www.linkedin.com/in/muhammad-ayaz](https://www.linkedin.com/in/muhammad-ayaz)
+- connect with me [www.linkedin.com/in/muhammad-ayaz-5717921b6](www.linkedin.com/in/muhammad-ayaz-5717921b6)
 
 - Ask me about **Deep learning frameworks**
 
